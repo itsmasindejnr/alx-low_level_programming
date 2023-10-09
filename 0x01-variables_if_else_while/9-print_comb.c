@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - print all posible combinations of single-digit numbers
+ * main - prints all posible combinations of single-digit numbers
+ * Return: Always 0 (Success)
  */
 int main(void)
 {

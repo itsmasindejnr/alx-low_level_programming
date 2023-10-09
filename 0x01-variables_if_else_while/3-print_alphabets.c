@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print the alphabet.
+ * main - prints the alphabet.
  *
  * Return: Always 0 (Success)
  */
@@ -16,3 +16,4 @@ char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	}
 	putchar('\n'0);
 	return (0);
+}
